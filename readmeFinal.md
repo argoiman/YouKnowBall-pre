@@ -2184,7 +2184,7 @@ Menentukan kategori efek suara yang dapat diminta dari `AudioManager`.
 
 Contoh berikut menggambarkan nilai baseline. Implementasi dapat menambahkan nilai teknis yang diperlukan selama tidak bertentangan dengan keputusan proyek.
 
-```cpp
+CPP
 enum class GameType {
     EIGHT_BALL,
     NINE_BALL
