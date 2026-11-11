@@ -474,19 +474,4 @@ Keputusan atas hal-hal tersebut perlu dicatat dan diselaraskan pada kode, diagra
 
 ### 18.1 Dasar dokumen
 
-README ini merupakan konsolidasi dari:
-- `YouKnowBall_Acuan_Proyek_Final_v02.md` — dasar kelengkapan acuan dan skenario.
-- `YouKnowBall_Acuan_Proyek_Final_v03.md` — keputusan terbaru produk, kontrak method, arsitektur, dan pembagian kerja.
-- `Dasar_Arsitektur_SimulasiBilliard.md` — dasar responsibility, kolaborasi class, struct, dan batas arsitektur.
-
-Jika terdapat perbedaan, keputusan proyek terbaru yang sudah disepakati dan ditegaskan dalam README ini menjadi acuan. Bagian yang belum dipastikan tetap dicatat pada Bagian 17.
-
-### 18.2 Riwayat perubahan
-
-| Versi | Keterangan |
-|---|---|
-| 05 | Pemadatan dan konsolidasi seluruh bagian agar mudah dibaca tanpa menghilangkan keputusan inti, kontrak arsitektur, jadwal, dan TBD. |
-| 04 | Konsolidasi struktur lengkap README dan keputusan proyek. |
-| 03 | Pembaruan keputusan produk, kontrak method, arsitektur, dan pembagian kerja. |
-| 02 | Acuan proyek dan spesifikasi awal yang diperluas. |
-| 01 | Rancangan awal proyek. |
+README ini merupakan konsolidasi. Jika terdapat perbedaan, keputusan proyek terbaru yang sudah disepakati dan ditegaskan dalam README ini menjadi acuan. Bagian yang belum dipastikan tetap dicatat pada Bagian 17.
