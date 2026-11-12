@@ -1,4 +1,8 @@
 # YouKnowBall
+![Status](https://img.shields.io/badge/status-in%20development-blue)
+![Language](https://img.shields.io/badge/language-C%2B%2B-00599C)
+![Library](https://img.shields.io/badge/SFML-2.4.2-8CC445)
+![Platform](https://img.shields.io/badge/platform-desktop-lightgrey)
 
 > **Dokumen:** README Proyek YouKnowBall
 > **Versi dokumen:** 04
